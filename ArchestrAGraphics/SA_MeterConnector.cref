@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="Meter1.PVY" CPName="PV1Y" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVX" CPName="PV1X" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical1X" CPName="PV1Historical1X" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical2X" CPName="PV1Historical2X" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical3X" CPName="PV1Historical3X" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical1Y" CPName="PV1Historical1Y" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical2Y" CPName="PV1Historical2Y" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical3Y" CPName="PV1Historical3Y" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVX" CPName="PV2X" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical1X" CPName="PV2Historical1X" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical2X" CPName="PV2Historical2X" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical3X" CPName="PV2Historical3X" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVY" CPName="PV2Y" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical1Y" CPName="PV2Historical1Y" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical2Y" CPName="PV2Historical2Y" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical3Y" CPName="PV2Historical3Y" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical1Received" CPName="PV1Historical1Received" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical1Received" CPName="PV2Historical1Received" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical2Received" CPName="PV1Historical2Received" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical2Received" CPName="PV2Historical2Received" Type="UDA Ref Use" />
+  <Reference Name="Meter1.PVHistorical3Received" CPName="PV1Historical3Received" Type="UDA Ref Use" />
+  <Reference Name="Meter2.PVHistorical3Received" CPName="PV2Historical3Received" Type="UDA Ref Use" />
+</References>

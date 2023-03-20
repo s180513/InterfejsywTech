@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="Me.PV.EngUnitsRangeMax" CPName="PVRangeFullScaleMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.EngUnitsRangeMin" CPName="PVRangeFullScaleMin" Type="UDA Ref Use" />
+  <Reference Name="Me.Tracker" CPName="Tracker" Type="UDA Ref Use" />
+  <Reference Name="Me.PV" CPName="PV" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentAcked" CPName="AlarmMostUrgentAcked" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentInAlarm" CPName="AlarmMostUrgentInAlarm" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentMode" CPName="AlarmMostUrgentMode" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentSeverity" CPName="AlarmMostUrgentSeverity" Type="UDA Ref Use" />
+</References>

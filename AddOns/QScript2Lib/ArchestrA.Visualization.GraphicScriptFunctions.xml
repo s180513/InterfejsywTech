@@ -1,0 +1,14 @@
+<scriptLibrary>
+  <name>ArchestrA.Visualization.GraphicScriptFunctions</name>
+<!--vendor below must be Archestra-->
+  <vendor>Archestra</vendor>
+  <description/>
+  <version>5807.0018.1705.3</version>
+  <dependentFiles>
+    <file>
+      <name>ArchestrA.Visualization.GraphicScriptFunctions.dll</name>
+      <vendor>Archestra</vendor>
+      <registrationType>eNormal</registrationType>
+    </file>
+  </dependentFiles>
+</scriptLibrary>

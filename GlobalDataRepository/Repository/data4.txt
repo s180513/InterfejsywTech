@@ -1,0 +1,2587 @@
+<ElementStyles Version="3">
+	<ES Id="10" Name="Title">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="14" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="239" G="239" B="239" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="20" Name="Heading">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="239" G="239" B="239" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="126" G="126" B="126" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="30" Name="Label">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="239" G="239" B="239" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="35" Name="Descriptor">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="8" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="239" G="239" B="239" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="40" Name="Tagname">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="239" G="239" B="239" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="50" Name="Engineering_Units">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="8" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="239" G="239" B="239" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="60" Name="Background">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="70" Name="Passive">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="77" Name="Not_Running">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="80" Name="Active">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="83" Name="Active_NotAvailable">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="126" G="126" B="126" A="255"/>
+						<ForeColor R="239" G="239" B="239" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="85" Name="Non_Automated">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="90" Name="Transitioning">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="204" G="255" B="204" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="198" G="198" B="198" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="100" Name="Interlocked">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="110" Name="Actual_Value">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="120" Name="Actual_Value_Moving_Element">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="130" Name="Setpoint">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="2">
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="140" Name="Recent_Value_Range">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="150" Name="Optimal_Range">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="198" G="198" B="198" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="198" G="198" B="198" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="160" Name="Over_Range">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="165" Name="Over_Range_NotAvailable">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="49" G="49" B="49" A="255"/>
+						<ForeColor R="255" G="255" B="255" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="170" Name="Control_line">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle Pattern="Dots" Weight="3">
+				<Color>
+					<SolidFill>
+						<FillColor R="193" G="136" B="244" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="180" Name="Process_Line_Primary">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="3">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="190" Name="Process_Line_Secondary">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="200" Name="Control_Mode_Automatic">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="210" Name="Control_Mode_Manual">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="215" Name="Control_Mode_Cascade">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="220" Name="Fencing_1">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="230" Name="Fencing_2">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="250" Name="Minor_Deviation_Limit">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="260" Name="Major_Deviation_Limit">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="126" G="126" B="126" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="126" G="126" B="126" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="263" Name="SafetySystem">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="265" Name="Meter_Level">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="270" Name="Tracker">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="275" Name="Full_Range">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="277" Name="Direction_Arrows">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="126" G="126" B="126" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="278" Name="Navigation">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="52" G="52" B="52" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="52" G="52" B="52" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="280" Name="Alarm_Critical_UNACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="255" G="179" B="179" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="255" G="0" B="0" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="290" Name="Alarm_High_UNACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="255" G="255" B="191" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="255" G="255" B="0" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="300" Name="Alarm_Medium_UNACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="191" G="255" B="255" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="0" G="255" B="255" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="310" Name="Alarm_Low_UNACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="255" G="191" B="255" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="255" G="0" B="255" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="320" Name="Alarm_Critical_ACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="330" Name="Alarm_High_ ACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="340" Name="Alarm_Medium_ ACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="350" Name="Alarm_Low_ACK">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="360" Name="Alarm_Critical_RTN">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="255" G="0" B="0" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="255" G="0" B="0" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="370" Name="Alarm_High_RTN">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="0" G="0" B="0" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="255" G="255" B="0" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="380" Name="Alarm_Med_RTN">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="0" G="0" B="0" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="0" G="255" B="255" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="390" Name="Alarm_Low_RTN">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="255" G="0" B="255" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="400" Name="Alarm_Inhibited">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="216" G="216" B="216" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="150" G="150" B="150" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="410" Name="Alarm_Supressed">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="150" G="150" B="150" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="150" G="150" B="150" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="420" Name="Alarm_Shelved">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="12" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="250" G="192" B="144" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="150" G="150" B="150" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+				<Blink Speed="Slow">
+					<Color>
+						<SolidFill>
+							<FillColor R="150" G="150" B="150" A="255"/>
+							<Transparency>0</Transparency>
+						</SolidFill>
+					</Color>
+				</Blink>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="480" Name="Good">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="8" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="132" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="484" Name="Satisfactory">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="8" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="198" G="198" B="198" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="198" G="198" B="198" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="488" Name="Bad">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="8" Bold="true" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="501" Name="Intensity1">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="502" Name="Intensity2">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="503" Name="Intensity3">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="198" G="198" B="198" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="198" G="198" B="198" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="504" Name="Intensity4">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="505" Name="Intensity5">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="49" G="49" B="49" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="506" Name="Intensity6">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="52" G="52" B="52" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="52" G="52" B="52" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="510" Name="Trend_Grid">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Arial" Size="10" Bold="false" Italic="false" Strikeout="false" Underline="false" Charset="0" VerticalFont="false"/>
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="132" G="132" B="132" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle Pattern="ShortDash" Weight="1">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="154" G="154" B="154" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="520" Name="Trend_Pen">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="530" Name="Trend_PenA">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="540" Name="Trend_PenB">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="187" G="62" B="150" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="550" Name="Trend_PenC">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="115" G="208" B="168" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="560" Name="Trend_PenD">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle Pattern="Solid" Weight="1">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="140" G="146" B="208" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="570" Name="Default_Background">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="580" Name="Default_Foreground">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="590" Name="Default_Accent">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="87" G="127" B="176" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="600" Name="Default_Selected">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="141" G="199" B="237" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="610" Name="Default_Hover">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="118" G="182" B="228" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="620" Name="Default_FontFamily">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Tahoma" Size="14" Strikeout="false" Underline="false" Bold="false" Italic="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="630" Name="Default_FontStyle">
+		<GraphicPrimitive>
+			<TextStyle>
+				<Font Name="Tahoma" Size="14" Strikeout="false" Underline="false" Bold="false" Italic="false" Charset="0" VerticalFont="false"/>
+				<Color>
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</TextStyle>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="640" Name="Default_FocusIndicator">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="190" G="220" B="244" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="800" Name="User_Defined_01">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="810" Name="User_Defined_02">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="820" Name="User_Defined_03">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="830" Name="User_Defined_04">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="840" Name="User_Defined_05">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="850" Name="User_Defined_06">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="860" Name="User_Defined_07">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="870" Name="User_Defined_08">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="880" Name="User_Defined_09">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="890" Name="User_Defined_10">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="900" Name="User_Defined_11">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="910" Name="User_Defined_12">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="920" Name="User_Defined_13">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="930" Name="User_Defined_14">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="940" Name="User_Defined_15">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="950" Name="User_Defined_16">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="960" Name="User_Defined_17">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="970" Name="User_Defined_18">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="980" Name="User_Defined_19">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="990" Name="User_Defined_20">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="1000" Name="User_Defined_21">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="1010" Name="User_Defined_22">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="1020" Name="User_Defined_23">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="1030" Name="User_Defined_24">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="1040" Name="Meter_Level_Unfilled">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle>
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</FillStyle>
+			<LineStyle Weight="1">
+				<Color>
+					<SolidFill>
+						<FillColor R="235" G="235" B="235" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</LineStyle>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="false"/>
+	</ES>
+	<ES Id="1050" Name="AlarmBorder_Critical_UNACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+			<Blink Speed="Slow">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</Blink>
+		</Outline>
+	</ES>
+	<ES Id="1060" Name="AlarmBorder_High_UNACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="255" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+			<Blink Speed="Slow">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</Blink>
+		</Outline>
+	</ES>
+	<ES Id="1070" Name="AlarmBorder_Medium_UNACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+			<Blink Speed="Slow">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</Blink>
+		</Outline>
+	</ES>
+	<ES Id="1080" Name="AlarmBorder_Low_UNACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+			<Blink Speed="Slow">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="0" B="0" A="0"/>
+						<Transparency>100</Transparency>
+					</SolidFill>
+				</Color>
+			</Blink>
+		</Outline>
+	</ES>
+	<ES Id="1090" Name="AlarmBorder_Critical_ACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="0" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1100" Name="AlarmBorder_High_ ACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="255" B="0" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1110" Name="AlarmBorder_Medium_ ACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="0" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1120" Name="AlarmBorder_Low_ACK">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="0" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1130" Name="AlarmBorder_Critical_RTN">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Pattern">
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="255" G="0" B="0" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1140" Name="AlarmBorder_High_RTN">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Pattern">
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="255" G="255" B="0" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1150" Name="AlarmBorder_Med_RTN">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Pattern">
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="0" G="255" B="255" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1160" Name="AlarmBorder_Low_RTN">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Pattern">
+					<PatternFill>
+						<Transparency>0</Transparency>
+						<BackColor R="255" G="255" B="255" A="255"/>
+						<ForeColor R="255" G="0" B="255" A="255"/>
+						<HatchStyle>DiagonalCross</HatchStyle>
+					</PatternFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1170" Name="AlarmBorder_Inhibited">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1180" Name="AlarmBorder_Supressed">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1190" Name="AlarmBorder_Shelved">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="250" G="192" B="144" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+	<ES Id="1200" Name="AlarmBorder_Silenced">
+		<GraphicPrimitive>
+			<TextStyle/>
+			<FillStyle/>
+			<LineStyle/>
+		</GraphicPrimitive>
+		<StatusPrimitive/>
+		<Outline Enabled="true">
+			<Line Pattern="Solid" Weight="3">
+				<Color FillType="Solid">
+					<SolidFill>
+						<FillColor R="255" G="255" B="255" A="255"/>
+						<Transparency>0</Transparency>
+					</SolidFill>
+				</Color>
+			</Line>
+		</Outline>
+	</ES>
+</ElementStyles>

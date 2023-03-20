@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="Me.OP" CPName="OP" Type="UDA Ref Use" />
+  <Reference Name="Me.OP.AlarmMostUrgentAcked" CPName="AlarmMostUrgentAcked" Type="UDA Ref Use" />
+  <Reference Name="Me.OP.AlarmMostUrgentInAlarm" CPName="AlarmMostUrgentInAlarm" Type="UDA Ref Use" />
+  <Reference Name="Me.OP.AlarmMostUrgentMode" CPName="AlarmMostUrgentMode" Type="UDA Ref Use" />
+  <Reference Name="Me.OP.AlarmMostUrgentSeverity" CPName="AlarmMostUrgentSeverity" Type="UDA Ref Use" />
+  <Reference Name="Me.OP.EngUnitsRangeMin" CPName="OPMin" Type="UDA Ref Use" />
+  <Reference Name="Me.OP.EngUnitsRangeMax" CPName="OPMax" Type="UDA Ref Use" />
+</References>

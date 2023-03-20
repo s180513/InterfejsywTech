@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QualityStatus Enabled="true">
+  <Settings Name="Communication Error" Type="Comm" MxStatus="************0011" MxQuality="****************" OPCDAStatus="****************" OPCUAStatus="****************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAACvElEQVQ4T23Se0hTcRQH8KNhaunIJpGkRGrrD4kgtH/KWaRZ6ppvN918bGrJCluUQr4izTItxeVrKb5SS4Ukh6bpSgsLetDEMgkqpAyjfyolhOL0vWYkuQMf7r3n/s75/e7vd6mW6MVAQAAPSKWcS6QlIudqopaxuDjulki4jKgeORewY2b6H8UQeRidnF4vlJVxj5fXXAGRcTw8nN9lZDDu76MwFLaBI1gNBxnR3k5X17lvQUE87u3NXwID+YqDwxTe6eAAbALrK0DYwJpsohyLvT3/Eom429aWtxIVIi+HzWAH1kPoYiDa2Ub09Q0eR2ECKog+bCEKwZB1YPP/zH8RBro0Er0fQRGu8xlEgz24H4SzRGYUe8JqsB44BQsKhWLeT8JiKOUMkakFz9h+ziO6hZy7SlXql5xcEajRVJ5Wq0sVyAmbuoqQaNfrm76LRBv0SCSAL2ALSAqxYrF7LAqflJT0scHwgGWhWo6OyuLw8OwcvBdTUVEPp6dffevh4aN3c5Psi4kpkCkU50Mw42WForBKp7v20WR6yV1dz1mlTOX+6zo2NWlYq62YR4Ndiw26u59xff0INzaOcmvrQzabX3FNzV3Oz+9ki2WGb3Tc48xjWXynNYlHu5J42OiHBoYfaBBFkZG5WqWy+HF8fPFUQsLFScz6NDW1ar6hwcyzs3Pc3/eIjyZFcn9DCA+1xfNwcxyrVCWfPD19y9HgMJAzbIdgkMtkp26OjU3xwsJPbm3u4vjoCLbcDubOyjDurdUsFjs7uwrfHw0+gJ0kWguusFEuzz5SVzfE09OfWbr7IE/07uHmC8FsPJeyvDgCJEt1K8JRLs/KNRqHuaO9j08ez+fqvDRWqy8tLxZOSThGm5V/1p8Vif39Vbq0tPLJE5kNnJhYNmOteGm81RCarIcdEAZKOAT/Zl4Mot8Pr2WAx9rkOQAAAABJRU5ErkJggg==</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Configuration Error" Type="Config" MxStatus="************0100" MxQuality="****************" OPCDAStatus="****************" OPCUAStatus="****************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAACKUlEQVQ4T33Tb2gScRzH8Z+KY7AKy2Cz4R6kRe3B+kc9iEiKoqeVK2JphRA9EyLEiCW07MHIQJvPhXwm3uXDySwENRYzMkg5tDGonugNvCdqi/LT92fzT2j+4MUdd7/33Y/fcQzAUJJUWKhUykq1WkUw+NLBGNtJNO37fUGvXO7jwtbWT6yvb8Dr9S5ReJ4YibY9py/q9W51VanV63gdi0kU3SVniD4QCJygo4aoB4Zta2tZOgDlcrlutVofUXAgHA6fLJVKCp2Pk7GBIReJRBz1eoNO/w5FUWrFYvFDNpuFy+WitbdWY+gLa7PXj/9wzy/JX0oQRBHx+ApkWUYikYDP54PNZoPb7U5TfJUY++JmUVKw6MfvUxewkfuEZDKJaDSKUCgEv98Pj8eTNZlMDyjmG6r/N5byCp49Byangd1G/Jo5jbcxEXb7LcHpdAbNZvN9iuzb8RQZ6cb5zwqeLAL7Drdi6IzYVOsh6gwZmniPXCRHiInsJSNE1XqAMnf7FeafAhMHO7Gs2gOJjTeusFEfTbxEJsko4Z9P1V45E0XR8T6+jE3zsU5cobjAJhqzTBOgyTfIIR63o16sUCjg67fvWBFEyFPTKDMd8t34JuHL3kXUAx+QyWTQbALFYgkvHnsaAtO+2c9UDym4RmaGxRxLpVLL6XQagiA0LBYLf+sdco7wzdoxLOb40JOzZI5cJke3r2lJZ7P+hw/+OXjA/zIDGSND39oF9gdp1SEk260hiAAAAABJRU5ErkJggg==</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Pending" Type="Pending" MxStatus="************0001" MxQuality="****************" OPCDAStatus="****************" OPCUAStatus="****************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQ4T32Te0iTURjGP8mwAhWMiMj+iKw/IsgCC2oJssyMUlOWIoSWVKNieR3NG01r2mYOnLqxpm5uutW8pXhdDjOLmSVRVBiVWNAsMJvSZRA8vWdlbGl98Dtw3vM8z/m+75yXA+AhISXvc0xSMU5l1uBKZRt0piFUqntReNkCYbYGgvSr4MflIzFV7OI4bi2xgvn+BETHXcAuvgRpZ9WQq/ph7XwKjeE+imQdyBDVIfZYOcL35SE2MZtc3AEW4hNwNDU3K6eoDtW6Hmj0NjQ0D6PJOgKz9Q5M5gHo9F24VtOKCN7hFjILiPU+AfQEqUxjmP/yHfjQ/Yt3bZgfNcBhrYJzegYPn79nQhHBY/q/A5aJFQOO6a80+6iiwR94wcHZ6Ae7NhNuqsiUxknSpRFhTO/xsWGBbTsiw6S1I69YxsSgDHBuxbNWIc0ArbHPGRgUkk/GGGIN0zN8AugJ2Lh5+85L6rE3Pa+BW5W5mKatdTeGnYHBqwtoPYFguwf8K8CPWBnBOxJV2+lCm8EM4+05rAsNK6N6ErGFrTPdkgGeAi1KVbamu28Ba4MZPROAqEDroDr7ccHeZo/ee8IoVvYaZui1bZOARVmKJ7N0IDQvlOlsZN5ALPfW+5izS9sNj6eAWTrJkXYl4C6Bw5LnOYFPVLtYou6ngFDvEJ+AqsZRzJPa/egMfgyugrs/AHNd/rBI9sBFR3NvfIp9YxQRsijguFB2UlJ2k67wMDpbTGhtboJcrkeF/DoqylUwWe2o1vdhL1+gpYBNhO89iI7LxG5+Pk6c11IT2dHR9xL1lnFIFb04naXHoWQ5wiPFC72w+CbGJ+e6Dgqkns6Tq7phbHmAmoYhlCg6cE5cj+SMCuyPL0BCSs43Mi/ZC6xFWZexq5r+H9j6724E9xNXf0INIuJOuQAAAABJRU5ErkJggg==</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Operational Error" Type="Operational" MxStatus="************0101" MxQuality="****************" OPCDAStatus="****************" OPCUAStatus="****************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAACoElEQVQ4T3WTUUhTYRTHz5Q9qQQqFgx06gilyPBBgzJRhyFsJnTdGqNFCL4IppDpQ09CsopAiDCjFyNKU8pAckTOiS11g5ks0T3UfDEftAkqPjjn6X/udJjlgcPlu/f+f9//nO98xMyJHFeULI/Z3Oiurh70VFSE3aWl0Y9FRUsfCguH+/T6lvbMTD0RaZGaA01C/NVuN3qVay6fReGpWhMH29t40enkb6232V12iV3nz/Ebnc7rzMiwAZCCTEoAph0O48x1S9hfX8fh5728u73N0c1N3ovFeGdjg6NbWxzq7uaRojM8oNMtd6SmNgBwQiDksdmyvFarS8Q+Sx37b97gnUgE3L9DYBGfj98b8vmphgIXiMpUJxOK0ui31nPo0UNVPGm6wlM267GQhQdOfgnjTURPAMimcbN5cOqqWbUtIhGPVZTxF6Xuv5AoSnqn1fJ9Ij8AJTReVRUOdrSrNUuISMQDGuJRg+EfSHR9nSeNRu4lWgOghibKy6OLsCX2DkJEIn4Bq2NHIPJfsLmZh4hiAFjIVVy8JEcl3T4cIvJAPAjIdH5+AhKDg0BlJfcT/QbATsMFBcPuyxfVozoaIvJB/AmQubw8db2HjXxJSfyMaE510JeT0zKKIZFzPlzGQYhoHuIZQEJ4/uzqYnSP24jeqj24m56uf3XqpFeGRM75OMhSbi7PQziLHCEKGYjuAFCCJG1XWpqtPzNjeQjWFjo71aPaRa0MWGx1VbW90tPDPyAOoPsOIlRAtchsAWiQKbDU8Jgo8Bo/eZKT+TsaFW5q4hWTiVfw7hfSjZ1vxcVW5FnRxW+UzDRmW8azFRPWjSFBgWsQxD6j2wNo2D3UfDpuW3YWcfwuCOAQRG6Z2JLaapAWpH3/KWt5L9/3byPTHyzmRe7w2IlXAAAAAElFTkSuQmCC</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Software Error" Type="Software" MxStatus="************0111" MxQuality="****************" OPCDAStatus="****************" OPCUAStatus="****************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAC/klEQVQ4T22TaUhUURiGvxlnUawsUtoYK/xhkgWFJAhZQVERbRNpVBQEZqBUaiYmgeZUlmk1LrmMuaTjMrYglmM1rqmlk2uaOWo65r+iBrz08+07o0mBPx7u+c593/eec+53SJKkBakt3d/c8yYK1QW7zUS0nFEtpJsfVOQH7SrOCjzOQjXj0mUO+yXZX8JaFz7D9XYRkp/mszXzlncAj5WMfD6gPC9Ia+uIwnTvdZRkBVpMhuAqe08ypCkjJj4mIUO3ucWQ7mcZ7YjE59YwXD7vdZIDPESIM0B8ecIaAcmeAcfYTUgTzFQG13rmIdc6nudA+wNMdobh9LGld9jsy6hn90HkWpK9zeKwXWJxAhPHXGWuQPoaM49j5ALSE9cOsf4c4/9vgIvJsKVKGjsCaUwLafQwvrQEoKfOB9PWQK4PzGLbi9vxK62s1zIa4SNjzsZmY7YGNYWrMd7mA2nEH8ONGpw4RE9ZcDE6jIp+9K/j+Y343u+L6txFMNxzm9HfcO/k955kzF6NMr0MFZkyPMsl1BYSTI8IwszsZvyHGxWofyLH8zxCZRaxnvA4TSk0O6gow7e9RL9ixpSzGHXFBIuR8LqUEBtORcI8+JbCx98RGsoJ5hIRoED+HeXv5FjVOL8PZXgZnJSSsKpViNqeETprCH1mwmgL4dsH4rMgtD8nNFYSrkWqu1kfxZwVPoZUjGfOXY2lxSSHtZYw8Jr4HAgjTYQvDK8C3a8IrdUyJEarPrE+hNkkfM6/UHB/vba+1BXvXwih3GmcbCdMdxLsHQRbM6HXLHOurLZQjuBAeTSb1zCzjZR123vPy2J3WMpdoYtbPqSLW2Ltq1fi5wBvpV6BpBh1t/hyQ4UMNQUyHN0n07PZj1H97QN1XIRXxCmtRyqPRZNoGyrc4BjkAy1T/uZa7Dkk9KA8Zc92El0o7sx/nShnljEiVexNY0h162qqUiAlXjnI9RlGdJ5oHvHcwAi9izNgLsSFcZ1DjMXf2cmIA3PeRkbMi9sq4Nso0R+1S9DBK12WvAAAAABJRU5ErkJggg==</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Security Error" Type="Security" MxStatus="************0110" MxQuality="****************" OPCDAStatus="****************" OPCUAStatus="****************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAC6ElEQVQ4T12TSUwTURzGHwETD6MeTERN45KYeOBAggEiJ1njCRIjy8GwCbUIwYCIcaNA2yhrkAgGXCgUWinYUihQGqCVpXRhE6hEOi10TLx60+Pne8Oi8E9+mbyZ7/vNkjeEjSAIh0ivlt+q0PQEO6YmUdb18Ud8wd08GuMooUez4uwvMqqrLhe2vh7u8Lgwv7MDPhjEFz+P9wsOZFQ9t0ckJcbQ+HFKyCFBlkpZ/qhXM1I3MQ4974OuyYHVMh9WgjvoTOiFQebCqG8L9aYhZCsU7uu5uXJaO0EJEwUK8wi6Jpage+mAt5JHoEjAt5wAZna2ob0yhI0QHtbwOWhKJjAw4kCtVgtai6Kc2hUMm2Aod8OfLCCQuctWQgB9KcOwcwtYI99hJXb0Ej3UBUbU9mmYIJ0iEQVK+mimYg/8kQL4OAGu0kW47i3Cf17AWKQV83InTGQcH4gGaqkBCk0PE+RSLokC1ZAR5vwl8KcFfD27Ca/VC/qBMFVuA7/hR2AjAKPEjDekA2rZAJTd6iMCwyCMRU7xXTfDAlg8uY5ly4oo8Tl4GLlRdBI16kgTeh8boFQfERQ2NS70Gx2YInOYIS7Y0ufE8j5j6RNoIC14RuSwTXqQVlK8TWt3KBdEQbxMWmpeX0N/lBndRCfe3WvxQivRw/nODd8GDzmnhCqmHnOrq5Bci9LTWiolXBTQ4cra2n7qNXa0kHa0cG1o5d7iFWlEFVFALlFCRooxbZqHtKbmF83fp8SyHiuzCY3Oyizsplu3r2YYT8gLVJKneEAqUERKkEsK8KnuM3SWMZyJiOih+duUi6zHyvtbkku+XzQy5nGjRzUolnJIPrJJHvT1Bky7nIhKS12mOSklmuX3egcCZgu/kZ9nsbpdmLV5YNFOYnF2GbZ/5RJKIsux/CHB3uIYRXL1Zkr7w+bm3/2WcZQ3NPyRxMaY6XkZJYldZ7n/Ood/ZzpMco4SR2HbNXvvyNbs/EFZEATyFyah+P1orfSvAAAAAElFTkSuQmCC</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Warning" Type="Warning" MxStatus="************0010" MxQuality="****************" OPCDAStatus="****************" OPCUAStatus="****************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAACn0lEQVQ4T5WRXUiTYRTHT2oaXhglJiLRlhIoaWlaWZotsyStbFlhKVqkgkbSTSDdRGBE0YeJhZA6dQn5EZoWuVn5TeGFTaTGwI/XNZc6URNXF4N/53lNS+3Gix/nPc/5n/95zvMSgBW03qXQ3mIa/qYnGMrI/CiLYojInXFarl2SLNDzmIYdQ4RfEsFhJnQU0gA3BwiT5doliaDzPl0a/8Cf3IhxxkoYbyPkp1EBG2xmnP/VL34IWu7Qhi9lNI1+ws9ewlQ3RwOXvvIqJWQPUtIRNljPrPmvQdcDujXHe8+8I2gzCZqLHLM4b2V0hKIcquVmf2btCoP2e6SUtDz9PcFUTsg+wETPY6pkCZsYS8keF0bJbLBx4RaLBrx7hYOngKdbqwnhir+YNPPn9tdO0F6ndm4WD+q2aCB+m6HQE1LpdkzUbMOPxi2ICnSFn7eTHGebfDFZ58f1IAhdbCilsoGXuIVs8PGhS9vgs2CMaCNgqVHBWn8UBVeDodzkjvyMQDkf5XPz830YLNmBVzddjNwcxKwTD6fqf+qDkcoIjNYewlhjPGzNakiNauSeC4DUpIZNp8ZYUzzXY+QhQp+dQHls4EOfCtwMkiYMlhfR3HwMNn0SpjtS0FlxEnmXQzgmcp6KyZYzsrml+iAkTTh0t11H2GAX9RV58fS9GK07jIm3iZhqu4DZngwkqJT8QoTjqq2cZ2K6PQUTzadgfRkr36LviZeonyBDkSfvtl/e06Y/jZmuNMx9zoG+MhnREQrotecxZ7iCme502FqS8L0hDuaqSIg+Nkil6ht0ra/YG0aNP0xVgRio2Ymh+t2Q3kTCrFNxjMJQwx4M1IbIdWO5P4Q+N5Hq2OAsQx5M2J8kfRUIvegjZ0aY+DKKVcB68vgNTI4KNifk7LAAAAAASUVORK5CYII=</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Out Of Service" Type="OutOfService" MxStatus="****************" MxQuality="********000111**" OPCDAStatus="********000111**" OPCUAStatus="1000000010001101" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAS1JREFUOE+l070uBFEYgOEjElNqJJKpuYJRCm7BlVDQciUyCh2xIhrcCJmSckJBRMbP8b5nl8yuHWF9yZPdOfOd/2/CSCziEDVeEAe/d7jAKmYwhW+xjQfYqcsz9jCLaXzFFt4Q8zyPZVnGqqpi0zTp12fbfT9wjHmkQRbwiFgURazrOo4L231vHpxsB64kHCHN0NX5M3zfWsktVpAOLC3zN2Ge+XjFLvqn7V4N/3cxzGu1HaD/4IEZWZa1E4YY5rXazvCvFZwjFckkZ/COU4RLGya4hSdYVGEZDf5SB7rCJlJtO1J64Qwu073+UIn32EeB9GFYUT14t+3Ecex8gnWkSjSs6TlYGDcYHcgDc8/XcGY7mz/0QfngiGtwIIvEe/aqPG23uYElDL7GED4AJHelkgZsMx4AAAAASUVORK5CYII=</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Device Failure" Type="DeviceFailure" MxStatus="****************" MxQuality="********000011**" OPCDAStatus="********000011**" OPCUAStatus="1000000010001011" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAihJREFUOE9dUzFoU2EQ/v6/vI4vgQ7SzuJS0bkQkGiKdrKT0E1RskUJbUIplaaVotFaRbCZHDvoUlsHIbqKoIl0EXFRC4IimJAUW5Toed///kfC++DecXffHffuv8MgngDDG9ZeuQc8vQt8UuneAT5XgefL1s4dB44oLYjYCdSC4OQG8EpFnmUy8m5+Xj5Uq07Tpl8LvZ8ZGppWeqhiXSLxMAhOPAB+bI6NyZetLfl7eCjEP/cVZ9PPOLs6a+1FTRtRsVHbwJvN0VH5ubvrU0RO53KSSqXkzOSk94iLk7cKfE0BOS0Qombt5Zq2t7e97WkirVZLjDGiBKdpxyCP/BljHmt8HPeBnZ2JCR+O0O12JZ1OuwLUtAdB/qwOV+PT4LRfF4s+FKHX60lGB8cC1LQHQf4ysK/xAtZ0KM1KxYf6KJfLrgB1EuTfBP5ofAl852QHRKPRkGw2K81m03v6IL8C/NICq7gN1JMzIDqdjtTrdWm3297TB/nXgO+ugxVrZ5OvQJRKJfcL+XzeeyLEr3DOmIbGC+B6ahcfk3uwtr4uYRjKwuKi9/T34DrQGQYeaQFuJYILup46i/14E3sHBy4h3kTa8SbqOv8+asxLzSupjLMAEU5Ze+kGsBffwlv9Bd5CQ3V8CwtA+5gxL5S/onKKeUwmeBgjXE9uWFF3g+98S5+K074KfJsypunbnlNhcnQLA6DBimzrvEpBZUlFV99p2vQz7q8R+A8Mcwgxd0hn6wAAAABJRU5ErkJggg==</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Bad" Type="Bad" MxStatus="****************" MxQuality="********00******" OPCDAStatus="********00******" OPCUAStatus="1***************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAACnElEQVQ4T01TW0tUURg9YQn1oBb64FNKaWovUvbShcYIJOuhDKELyBjZhdQMCscgjIh6KsVejAiMfoASqEWXSWsoyxAveJk52hybOWfmnLyAyYg+fK21PQMuWGy+b6/vsvf+trYR3b1vtw/8HGzTp2cM23Fkfn5BIlFTJiaDf7p7el+cv3AxB7JUcJMK2Ij3H/0VYWN2UVz8HRoS0+9XaxITk1NLDx89vg55GpiiAgkGW7G4EhkdHaJfrpFobZ04zc0SrasXveaK8hNhw5A7jb7bCNsBpqi2k5V1X5NYpysk5q2W+M0GsX0+iTfcklj1JbHOnBW96a5KMjwyulxYVFSKBGkaz0yn0d4u5sHD4tyok5XBX2KjcvzqNbXSdmrrxTx0BLrnKklr27MeJMjTeGF0TCE4uq9EEn39SrAWDqsgrkSi/4tE9x9QOuJr4NscEng007LURf3O3S2RgiKxjpbK6lRQiZKgbXmOYX+v0lEf0qcFCSo1PhVvO7QzVyK78iWSXyixshNu6DpiZeXKz30moN6yYkxQpcXjtsr4UtOka/MWCWRnS2JszA1dx+r4uHyH/8PWbfIKOuqDQZ0JvBqHhKKunBx5g027s1MFrUCkw8eVcODvxX43fIT/c9+C6oATRkeopUXeQTBcXCxLEM9mZIgJO4p1GfY4/J9gz0BHNN9/EFB3wPHkhNE54fXKIEQ6aIP/QJQRAxwBg9gnBgZ+JDKzsnxI4AG11CdPWxs5YYSNCgbadBCQABdBE/acW3kSL1J+8tRrxJ0D85iAHyP9HnrihCkVsIazr+G2uSbBym5wNVgC8k8o8GNk7ikoOM4J45DwnflU7IwXxjO7bbMyg9f/wgbQSAfZFs9WCVaBXnelTT/33d+oaf8BE1NXSss7/0IAAAAASUVORK5CYII=</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Uncertain" Type="Uncertain" MxStatus="****************" MxQuality="********01******" OPCDAStatus="********01******" OPCUAStatus="01**************" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAC6ElEQVQ4T01TbyzUcRj/WZuXrEbrTabpwrXUC1Zr1djoRXhRm0rMKCZRMsTKvyJZ0oSVReXPi7LSWjnHSU7ncv921R3u/LnjrjjHQsnUZvv0fb6H9Wyf/X7f5/s8n+fvVwCwCYm0a6taq6uZsFhtc/PzWFhYxPfpGZjMY98kndKG2HNxvoIguDO4bfhsOvf09p2astmX2D8X49QilMNz/LshJvPocln5nTRG4MGwhalcBOTsmHVyo+cDdmS8GEFmxzgKP9qRKZlARtsI15NM2WzIzcvPYQTbiISnvRG59LUZcc1DSH01ioeaGfROLuHZ51mkto8ivmWY35N8NRhXAsXiMJ4J1UzK5r4pRD7Q43SjAQrrZiVcTM4VnHliRFSNntuRVNfUdjICkUANI0X0XTUiKrVIYZFIdPZfyH4zDtvCKj+ntA4j4p4O0ZVqfh5QDv5gBKHCjMPBG3WoSImjZSpuFFWrx8n6LyjusGDl7xqW/6zheJUOx26ruB3Zj09YWAeFGIFGRd0OKVDg8M1BHClVIaxCg/jHBh5peXUNyU+HuJ7uiYDsHY5ZIkgQnE7XqLbHvoTPhbcQpXdBnNWLRz2uWgvaTAi6JocoQwa/NCl2xLVz+7GxCSJIFGhJyDAkqws7z7+D70Up/C73IL5Oj9ruSQRfV0B05T12XeqGT3IHDmbLOHGfvH+RZ0AbRoqGbgt8UiTwS5fBP6sPdTJXBnvzFQjIlmM3IyHyRpmV64tLbil5D2g9acNImdNk4IaBOf1IahxCvXwaQYUqiPMU2HP1A3JbjNxZrdasenl75zOCUAbBvep+dR5tGEmT3I7wcjX23fiEAyUa7C9ik6nQoqmfVwrz6BhOREa1Mr+zDCIicGPwLGQ50YZxKyammd/QWn/CzL4bQpHXnZMYghk8XC+KdloQvPwDAsJpw2hJaM40Kuo2NYxqXk+bIpOz6y0QwX8kngyUFtUWw5DAkLj+pTPp6X79NUL4B9nRjmGIr/mNAAAAAElFTkSuQmCC</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Initializing" Type="Initializing" MxStatus="****************" MxQuality="********001*****" OPCDAStatus="********0010****" OPCUAStatus="1000000000110010" OPCUAVendorStatus="****************" SCADAStatus="****************">
+    <Status>
+      <Image Enabled="true">
+        <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAACyElEQVQ4T01TS0wTURQdYsISooG9GyKydskCownRsjAmJH4SgtENewxsEGOMrDSIGyMxUYkLEQhSWyBIEG0LRVtsC0M7/UDboR/6QalYROPx3GlrfMnpvN6599zzzrujAPgHy/TMUeenz0OhcCS6k8kgn9+Fvp3Ahl+LW6zTw5evXD2uKEo1UVWp+Vc8N79wcSsa+8q9sXK5HLYTSWQy2XIEJAoU7t4b6CJBDXGEoRKBFCdTaSNpPaTjrSeF2UgBt4YdsGh7MK/q+KIGjfdb0Shu9vR2k+CYkBiyK50/qGk40oeIcb/5B2i7cAPuAmCjCGvkAHZ1S9Lg8fr2TzY1nTaUyJklqIZ12Fic4v4bIcKbm5uxVgSWd4F3CWAqWITLq0o6BoceWUnQoIhhEjB70oiwa477n8QeIQTr/OOkvnkSvAkzz80fLpt9KUeCFiWRTNKwPKZDBWi/AeYZJCuaBpPJBKtPw1IemNsGJkPAxFoO8biOYChMB5V2Ra4qQbf7njjweMJhkIiSvoEBOJaW0draaigRnDl3HQ9fORAIaEgmU0LQoaTTO8hks5jy7xlSV78D3h/Aa4cbHV3d6H9uw7j/ECPeQzx1/cKYN4tYLA5NCwlBpyJDImea4lUt0MGPGcDOM9jp4iJvVqSbN4HRAPDMC1hcfknHwvvFXUOBTJgEPBshmIMHmCHdrA7jaaG9k/RslDUvWDym7sPpchsE/bfv2A0PZDxlwiToUKOYDBQxzpkZ05jEQXq5zs6eUvHKRqm707lSrKuv7yVBC6FU338w2CMTJsvtU2F2hTHuy2OQhsmZRXals58Gnje1jbDuEtEgBFVEbR81yYQZWVy6riPAqxTDKks6l4uvEaeImtIXJTOtKHUnGhvPyoTJkMg9y1WJ22KYnLksWzpLcelbEIL/SGoJkSVnayc6iM7yU/5LXN6Xv0YofwEhZsqvxW0nngAAAABJRU5ErkJggg==</ImageData>
+        <TransparentColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </TransparentColor>
+        <ImageStyle>Normal</ImageStyle>
+        <ImageAlignment>Centers</ImageAlignment>
+      </Image>
+    </Status>
+  </Settings>
+  <Settings Name="Good" Type="Good" MxStatus="****************" MxQuality="********11******" OPCDAStatus="********11******" OPCUAStatus="0***************" OPCUAVendorStatus="****************" SCADAStatus="****************" />
+</QualityStatus>

@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ElementStyles>
+  <ES Id="277" Name="Direction_Arrows">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="126" G="126" B="126" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="278" Name="Navigation">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="52" G="52" B="52" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="52" G="52" B="52" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1110" Name="AlarmBorder_Medium_ ACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="280" Name="Alarm_Critical_UNACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="179" B="179" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="560" Name="Trend_PenD">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="140" G="146" B="208" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="840" Name="User_Defined_05" />
+  <ES Id="10" Name="Title">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="14" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1120" Name="AlarmBorder_Low_ACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="290" Name="Alarm_High_UNACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="191" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="570" Name="Default_Background">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+  </ES>
+  <ES Id="850" Name="User_Defined_06" />
+  <ES Id="20" Name="Heading">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1130" Name="AlarmBorder_Critical_RTN">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="255" G="0" B="0" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="300" Name="Alarm_Medium_UNACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="191" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="580" Name="Default_Foreground">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+  </ES>
+  <ES Id="860" Name="User_Defined_07" />
+  <ES Id="30" Name="Label">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1140" Name="AlarmBorder_High_RTN">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="255" G="255" B="0" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="310" Name="Alarm_Low_UNACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="191" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="35" Name="Descriptor">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="8" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="590" Name="Default_Accent">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="87" G="127" B="176" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+  </ES>
+  <ES Id="870" Name="User_Defined_08" />
+  <ES Id="40" Name="Tagname">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1150" Name="AlarmBorder_Med_RTN">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="0" G="255" B="255" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="320" Name="Alarm_Critical_ACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="600" Name="Default_Selected">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="141" G="199" B="237" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+  </ES>
+  <ES Id="880" Name="User_Defined_09" />
+  <ES Id="50" Name="Engineering_Units">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="8" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1160" Name="AlarmBorder_Low_RTN">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="255" G="0" B="255" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="330" Name="Alarm_High_ ACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="610" Name="Default_Hover">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="118" G="182" B="228" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+  </ES>
+  <ES Id="890" Name="User_Defined_10" />
+  <ES Id="60" Name="Background">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1170" Name="AlarmBorder_Inhibited">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="340" Name="Alarm_Medium_ ACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="620" Name="Default_FontFamily">
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Tahoma" Size="14" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="900" Name="User_Defined_11" />
+  <ES Id="70" Name="Passive">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="1180" Name="AlarmBorder_Supressed">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="350" Name="Alarm_Low_ACK">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="630" Name="Default_FontStyle">
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Tahoma" Size="14" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="77" Name="Not_Running">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="910" Name="User_Defined_12" />
+  <ES Id="80" Name="Active">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="1190" Name="AlarmBorder_Shelved">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="250" G="192" B="144" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="360" Name="Alarm_Critical_RTN">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="255" G="0" B="0" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="83" Name="Active_NotAvailable">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="239" G="239" B="239" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="126" G="126" B="126" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="85" Name="Non_Automated">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="640" Name="Default_FocusIndicator">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="190" G="220" B="244" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+  </ES>
+  <ES Id="920" Name="User_Defined_13" />
+  <ES Id="90" Name="Transitioning">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="204" G="255" B="204" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="198" G="198" B="198" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="1200" Name="AlarmBorder_Silenced">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="370" Name="Alarm_High_RTN">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="255" G="255" B="0" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </TextStyle>
+  </ES>
+  <ES Id="930" Name="User_Defined_14" />
+  <ES Id="100" Name="Interlocked">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="380" Name="Alarm_Med_RTN">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="0" G="255" B="255" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </TextStyle>
+  </ES>
+  <ES Id="940" Name="User_Defined_15" />
+  <ES Id="110" Name="Actual_Value">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="390" Name="Alarm_Low_RTN">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="255" G="0" B="255" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="950" Name="User_Defined_16" />
+  <ES Id="120" Name="Actual_Value_Moving_Element">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="400" Name="Alarm_Inhibited">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="216" G="216" B="216" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="150" G="150" B="150" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="960" Name="User_Defined_17" />
+  <ES Id="130" Name="Setpoint">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="2" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="410" Name="Alarm_Supressed">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="150" G="150" B="150" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="150" G="150" B="150" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="970" Name="User_Defined_18" />
+  <ES Id="140" Name="Recent_Value_Range">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="420" Name="Alarm_Shelved">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="250" G="192" B="144" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="150" G="150" B="150" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="150" G="150" B="150" A="255" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="980" Name="User_Defined_19" />
+  <ES Id="150" Name="Optimal_Range">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="198" G="198" B="198" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="198" G="198" B="198" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="990" Name="User_Defined_20" />
+  <ES Id="160" Name="Over_Range">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="165" Name="Over_Range_NotAvailable">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <PatternFill>
+            <PatternStyle>DiagonalCross</PatternStyle>
+            <Transparency>0</Transparency>
+            <ForeColor>
+              <SolidColor>
+                <Color R="255" G="255" B="255" A="255" />
+              </SolidColor>
+            </ForeColor>
+            <BackGroundColor>
+              <SolidColor>
+                <Color R="49" G="49" B="49" A="255" />
+              </SolidColor>
+            </BackGroundColor>
+          </PatternFill>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="1000" Name="User_Defined_21" />
+  <ES Id="170" Name="Control_line">
+    <LineStyle>
+      <LinePattern Pattern="Dots" Enabled="true" />
+      <LineWeight Size="3" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="193" G="136" B="244" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="1010" Name="User_Defined_22" />
+  <ES Id="180" Name="Process_Line_Primary">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="3" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="1020" Name="User_Defined_23" />
+  <ES Id="190" Name="Process_Line_Secondary">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="1030" Name="User_Defined_24" />
+  <ES Id="200" Name="Control_Mode_Automatic">
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="480" Name="Good">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="132" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="8" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="484" Name="Satisfactory">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="198" G="198" B="198" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="198" G="198" B="198" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="8" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1040" Name="Meter_Level_Unfilled">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="210" Name="Control_Mode_Manual">
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="488" Name="Bad">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="8" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="215" Name="Control_Mode_Cascade">
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1050" Name="AlarmBorder_Critical_UNACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </OutLine>
+  </ES>
+  <ES Id="220" Name="Fencing_1">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="501" Name="Intensity1">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="502" Name="Intensity2">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="503" Name="Intensity3">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="198" G="198" B="198" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="198" G="198" B="198" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="504" Name="Intensity4">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="505" Name="Intensity5">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="49" G="49" B="49" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="235" G="235" B="235" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1060" Name="AlarmBorder_High_UNACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </OutLine>
+  </ES>
+  <ES Id="506" Name="Intensity6">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="52" G="52" B="52" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="52" G="52" B="52" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="230" Name="Fencing_2">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="510" Name="Trend_Grid">
+    <LineStyle>
+      <LinePattern Pattern="ShortDash" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="154" G="154" B="154" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="false" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="1070" Name="AlarmBorder_Medium_UNACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </OutLine>
+  </ES>
+  <ES Id="520" Name="Trend_Pen">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="800" Name="User_Defined_01" />
+  <ES Id="1080" Name="AlarmBorder_Low_UNACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+      <Blink Speed="Slow" Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="0" />
+          </SolidColor>
+        </FillColor>
+      </Blink>
+    </OutLine>
+  </ES>
+  <ES Id="250" Name="Minor_Deviation_Limit">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="530" Name="Trend_PenA">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="810" Name="User_Defined_02" />
+  <ES Id="1090" Name="AlarmBorder_Critical_ACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="260" Name="Major_Deviation_Limit">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="126" G="126" B="126" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="126" G="126" B="126" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="540" Name="Trend_PenB">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="187" G="62" B="150" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="263" Name="SafetySystem">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="12" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="265" Name="Meter_Level">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="132" G="132" B="132" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="820" Name="User_Defined_03" />
+  <ES Id="1100" Name="AlarmBorder_High_ ACK">
+    <OutLine Enabled="true">
+      <LinePattern Pattern="Solid" />
+      <LineWeight Size="3" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="255" G="255" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </OutLine>
+  </ES>
+  <ES Id="270" Name="Tracker">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+    <TextStyle>
+      <FontColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="255" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FontColorOverride>
+      <FontOverride Enabled="true">
+        <Font Name="Arial" Size="10" Strikeout="false" Underline="false" Bold="true" Italic="false" />
+      </FontOverride>
+    </TextStyle>
+  </ES>
+  <ES Id="550" Name="Trend_PenC">
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="115" G="208" B="168" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="275" Name="Full_Range">
+    <FillStyle>
+      <FillColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </FillColorOverride>
+    </FillStyle>
+    <LineStyle>
+      <LinePattern Pattern="Solid" Enabled="true" />
+      <LineWeight Size="1" Enabled="true" />
+      <LineColorOverride Enabled="true">
+        <FillColor>
+          <SolidColor>
+            <Color R="0" G="0" B="0" A="255" />
+          </SolidColor>
+        </FillColor>
+      </LineColorOverride>
+    </LineStyle>
+  </ES>
+  <ES Id="830" Name="User_Defined_04" />
+</ElementStyles>

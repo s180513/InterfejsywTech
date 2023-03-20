@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="Bar01Area.AlarmCntsBySeverity[1]" CPName="Bar01A" Type="UDA Ref Use" />
+  <Reference Name="Bar02Area.AlarmCntsBySeverity[1]" CPName="Bar02A" Type="UDA Ref Use" />
+  <Reference Name="Bar03Area.AlarmCntsBySeverity[1]" CPName="Bar03A" Type="UDA Ref Use" />
+  <Reference Name="Bar04Area.AlarmCntsBySeverity[1]" CPName="Bar04A" Type="UDA Ref Use" />
+  <Reference Name="Bar05Area.AlarmCntsBySeverity[1]" CPName="Bar05A" Type="UDA Ref Use" />
+  <Reference Name="Bar06Area.AlarmCntsBySeverity[1]" CPName="Bar06A" Type="UDA Ref Use" />
+  <Reference Name="Bar07Area.AlarmCntsBySeverity[1]" CPName="Bar07A" Type="UDA Ref Use" />
+  <Reference Name="Bar08Area.AlarmCntsBySeverity[1]" CPName="Bar08A" Type="UDA Ref Use" />
+  <Reference Name="Bar01Area.AlarmCntsBySeverity[2]" CPName="Bar01B" Type="UDA Ref Use" />
+  <Reference Name="Bar02Area.AlarmCntsBySeverity[2]" CPName="Bar02B" Type="UDA Ref Use" />
+  <Reference Name="Bar03Area.AlarmCntsBySeverity[2]" CPName="Bar03B" Type="UDA Ref Use" />
+  <Reference Name="Bar04Area.AlarmCntsBySeverity[2]" CPName="Bar04B" Type="UDA Ref Use" />
+  <Reference Name="Bar05Area.AlarmCntsBySeverity[2]" CPName="Bar05B" Type="UDA Ref Use" />
+  <Reference Name="Bar06Area.AlarmCntsBySeverity[2]" CPName="Bar06B" Type="UDA Ref Use" />
+  <Reference Name="Bar07Area.AlarmCntsBySeverity[2]" CPName="Bar07B" Type="UDA Ref Use" />
+  <Reference Name="Bar08Area.AlarmCntsBySeverity[2]" CPName="Bar08B" Type="UDA Ref Use" />
+  <Reference Name="Bar01Area.AlarmCntsBySeverity[3]" CPName="Bar01C" Type="UDA Ref Use" />
+  <Reference Name="Bar02Area.AlarmCntsBySeverity[3]" CPName="Bar02C" Type="UDA Ref Use" />
+  <Reference Name="Bar03Area.AlarmCntsBySeverity[3]" CPName="Bar03C" Type="UDA Ref Use" />
+  <Reference Name="Bar04Area.AlarmCntsBySeverity[3]" CPName="Bar04C" Type="UDA Ref Use" />
+  <Reference Name="Bar05Area.AlarmCntsBySeverity[3]" CPName="Bar05C" Type="UDA Ref Use" />
+  <Reference Name="Bar06Area.AlarmCntsBySeverity[3]" CPName="Bar06C" Type="UDA Ref Use" />
+  <Reference Name="Bar07Area.AlarmCntsBySeverity[3]" CPName="Bar07C" Type="UDA Ref Use" />
+  <Reference Name="Bar08Area.AlarmCntsBySeverity[3]" CPName="Bar08C" Type="UDA Ref Use" />
+  <Reference Name="Bar01Area.AlarmCntsBySeverity[4]" CPName="Bar01D" Type="UDA Ref Use" />
+  <Reference Name="Bar02Area.AlarmCntsBySeverity[4]" CPName="Bar02D" Type="UDA Ref Use" />
+  <Reference Name="Bar03Area.AlarmCntsBySeverity[4]" CPName="Bar03D" Type="UDA Ref Use" />
+  <Reference Name="Bar04Area.AlarmCntsBySeverity[4]" CPName="Bar04D" Type="UDA Ref Use" />
+  <Reference Name="Bar05Area.AlarmCntsBySeverity[4]" CPName="Bar05D" Type="UDA Ref Use" />
+  <Reference Name="Bar06Area.AlarmCntsBySeverity[4]" CPName="Bar06D" Type="UDA Ref Use" />
+  <Reference Name="Bar07Area.AlarmCntsBySeverity[4]" CPName="Bar07D" Type="UDA Ref Use" />
+  <Reference Name="Bar08Area.AlarmCntsBySeverity[4]" CPName="Bar08D" Type="UDA Ref Use" />
+  <Reference Name="Bar09Area.AlarmCntsBySeverity[1]" CPName="Bar09A" Type="UDA Ref Use" />
+  <Reference Name="Bar09Area.AlarmCntsBySeverity[2]" CPName="Bar09B" Type="UDA Ref Use" />
+  <Reference Name="Bar09Area.AlarmCntsBySeverity[3]" CPName="Bar09C" Type="UDA Ref Use" />
+  <Reference Name="Bar09Area.AlarmCntsBySeverity[4]" CPName="Bar09D" Type="UDA Ref Use" />
+  <Reference Name="Bar10Area.AlarmCntsBySeverity[1]" CPName="Bar10A" Type="UDA Ref Use" />
+  <Reference Name="Bar10Area.AlarmCntsBySeverity[2]" CPName="Bar10B" Type="UDA Ref Use" />
+  <Reference Name="Bar10Area.AlarmCntsBySeverity[3]" CPName="Bar10C" Type="UDA Ref Use" />
+  <Reference Name="Bar10Area.AlarmCntsBySeverity[4]" CPName="Bar10D" Type="UDA Ref Use" />
+</References>

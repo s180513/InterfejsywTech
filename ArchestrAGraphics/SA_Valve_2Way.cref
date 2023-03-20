@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="Me.AlarmMostUrgentInAlarm" CPName="AlarmMostUrgentInAlarm" Type="UDA Ref Use" />
+  <Reference Name="Me.AlarmMostUrgentAcked" CPName="AlarmMostUrgentAcked" Type="UDA Ref Use" />
+  <Reference Name="Me.AlarmMostUrgentMode" CPName="AlarmMostUrgentMode" Type="UDA Ref Use" />
+  <Reference Name="Me.AlarmMostUrgentSeverity" CPName="AlarmMostUrgentSeverity" Type="UDA Ref Use" />
+  <Reference Name="Me.PV" CPName="PV" Type="UDA Ref Use" />
+  <Reference Name="Me.SP" CPName="SP" Type="UDA Ref Use" />
+  <Reference Name="Me.PVCmd" CPName="PVCmd" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.EngUnitsMin" CPName="PVMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.EngUnitsMax" CPName="PVMax" Type="UDA Ref Use" />
+  <Reference Name="Me.AlarmMostUrgentShelved" CPName="AlarmMostUrgentShelved" Type="UDA Ref Use" />
+</References>

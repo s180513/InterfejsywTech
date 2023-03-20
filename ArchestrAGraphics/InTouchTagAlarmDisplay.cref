@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="FacePI" CPName="Value" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoLoLimit" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoLimit" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiLimit" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiHiLimit" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LevelValueDeadband" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DevMinorTolerance" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DevMajorTolerance" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DeviationDeadband" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DevTarget" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoLoInAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoInAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiInAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiHiInAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DevMajorInAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DevMinorInAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="ROCIncreasingHiLimit" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="ROCIncreasingHiInAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="Tag_Name" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="Desc" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="EngUnits" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="Min" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="Max" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoLoEnabled" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="InAlarm" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="AckCmd" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoLoSet" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoSet" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiSet" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiHiSet" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="MinorDevSet" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="MajorDevSet" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="ROCSet" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="LoEnabled" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiEnabled" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="HiHiEnabled" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DevMajorEnabled" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="DevMinorEnabled" Type="InTouch Tag Use" />
+  <Reference Name="FacePI" CPName="ROCEnabled" Type="InTouch Tag Use" />
+</References>

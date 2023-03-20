@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="me.Tagname" CPName="OPCClientName" Type="UDA Ref Use" />
+  <Reference Name="me.ScanState" CPName="ScanState" Type="UDA Ref Use" />
+  <Reference Name="me.ScanStateCmd" CPName="ScanStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.ShortDesc" CPName="ShortDesc" Type="UDA Ref Use" />
+  <Reference Name="me.ServerNode" CPName="ServerNode" Type="UDA Ref Use" />
+  <Reference Name="me.ServerName" CPName="ServerName" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionStatus" CPName="ConnectionStatus" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionStatus.Value" CPName="ConnectionStatusEnum" Type="UDA Ref Use" />
+  <Reference Name="me.ServerActivation" CPName="ServerActivation" Type="UDA Ref Use" />
+  <Reference Name="me.DAGroupAsAccessPath" CPName="DAGroupAsAccessPath" Type="UDA Ref Use" />
+  <Reference Name="me.RestartCnt" CPName="RestartCnt" Type="UDA Ref Use" />
+  <Reference Name="me.RestartMax" CPName="RestartMax" Type="UDA Ref Use" />
+  <Reference Name="me.RestartPeriod" CPName="RestartPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.RestartReset" CPName="RestartReset" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionHeartbeatPeriod" CPName="ConnectionHeartbeatPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.RestartAlarm" CPName="RestartAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionAlarm" CPName="ConnectionAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.ScanGroupList[]" CPName="ScanGroupList" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemCnt" CPName="SGItemCnt" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemErrorCnt" CPName="SGItemErrorCnt" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemUpdateCnt" CPName="SGItemUpdateCnt" Type="UDA Ref Use" />
+  <Reference Name="me.SG.Active" CPName="SGActive" Type="UDA Ref Use" />
+  <Reference Name="me.SG.UpdateRateCmd" CPName="SGUpdateRateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemErrorCntAlarm" CPName="SGItemErrorCntAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemErrorCntAlarm.Priority" CPName="SGItemErrorCntAlarmPriority" Type="UDA Ref Use" />
+</References>
