@@ -1,9 +1,16 @@
-Number of Levels:	1
-    Level:	  0	 1
+Number of Levels:	2
+    Level:	  1	 1
+    Level:	  0	 2
 End of Level Information.
 Begin Group Definition.
     Group Name:	$System;0001
     Level:		1
+    Number Children:	1
+Children.
+Begin Group Definition.
+    Group Name:	Sterownik;0026
+    Level:		2
     Number Children:	0
 No children.
+No more siblings.
 No more siblings.

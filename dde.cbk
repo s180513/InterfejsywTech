@@ -1,13 +1,13 @@
 Begin DDE Information.
-    Last DDE Source:	3
+    Last DDE Source:	4
 Begin DDE Source Definition.
-    Source Name:		Galaxy
-    Application Name:		\\NA\NA
-    Topic Name:			NA
-    DDE Source ID:		2
+    Source Name:		OPCUA
+    Application Name:		\\localhost\Gateway
+    Topic Name:			OPCUA_DeviceGroup
+    DDE Source ID:		3
     Request Initial Data:	1
     Always Advise:		0
-    SuiteLink:			3
+    SuiteLink:			1
     Begin DDE Points
     End DDE Points
 End DDE Source Definition.
@@ -23,14 +23,42 @@ Begin DDE Source Definition.
     End DDE Points
 End DDE Source Definition.
 Begin DDE Source Definition.
-    Source Name:		OPCUA
-    Application Name:		\\localhost\Gateway
-    Topic Name:			OPCUA_DeviceGroup
-    DDE Source ID:		3
+    Source Name:		Galaxy
+    Application Name:		\\NA\NA
+    Topic Name:			NA
+    DDE Source ID:		2
+    Request Initial Data:	1
+    Always Advise:		0
+    SuiteLink:			3
+    Begin DDE Points
+    End DDE Points
+End DDE Source Definition.
+Begin DDE Source Definition.
+    Source Name:		Sterownik
+    Application Name:		DASSIDIRECT
+    Topic Name:			TOPIC1
+    DDE Source ID:		4
     Request Initial Data:	1
     Always Advise:		0
     SuiteLink:			1
     Begin DDE Points
+        R311;0037:  R311
+        R332;0036:  R332
+        R331;0035:  R331
+        R330;0034:  R330
+        R329;0033:  R329
+        R333;0032:  R333
+        R366;0031:  R366
+        R322;0030:  R322
+        R321;002F:  R321
+        R521;002E:  R521
+        R543;002D:  R543
+        R542;002C:  R542
+        R343;002B:  R343
+        R342;002A:  R342
+        R326;0029:  R326
+        R327;0028:  R327
+        R325;0027:  R325
     End DDE Points
 End DDE Source Definition.
 End DDE Information.
